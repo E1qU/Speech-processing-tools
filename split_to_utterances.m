@@ -1,5 +1,5 @@
 % Author: Einari Vaaras, einari.vaaras@tuni.fi, Tampere Univerity
-% SPECOG, http://www.cs.tut.fi/sgn/specog/index.html
+% Speech and Cognition Research Group, https://webpages.tuni.fi/specog/index.html
 
 % The program splits audio files consisting of speech signals
 % into separate utterances based on Short-Time Energy (STE). Please note
